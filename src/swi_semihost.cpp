@@ -3,6 +3,7 @@
  */
 #include "swi_semihost.h"
 #include <iostream>
+#include <unistd.h>
 #include <time.h>
 #include "error.h"
 #include <fcntl.h>
